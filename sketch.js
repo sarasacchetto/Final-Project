@@ -16,7 +16,7 @@ function preload(){
     
     faccia=loadImage("brain/face.png");
     
-    cervello=loadImage("brain/cervelloNeutroDEF.png");
+    cervello=loadImage("brain/CervelloneutroDEF.png");
     
     mylegenda=loadImage("brain/legendaDEFDEF.png");
     
