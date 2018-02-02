@@ -14,7 +14,7 @@ var opacityco =0;
 
 function preload(){
     
-    faccia=loadImage("brain/face.png");
+    faccia=loadImage("brain/faceMOD.png");
     
     cervello=loadImage("brain/CervelloneutroDEF.png");
     
