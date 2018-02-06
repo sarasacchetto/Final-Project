@@ -24,7 +24,7 @@ The aim of the project is to show in a simple way something that we cannot usual
 _N.B. The project was designed to work at its fullest extent on mobile devices._
 
 When you open the sketch you will see a short introduction explaining how the project works.  Touch on “test your brain” and let your imagination run wild. Try and simulate every kind of interaction you can think about.
-While you’re interacting with your mobile phone you will see the different areas coloured, and than by clicking on the burger menu at the top right, a legend appears showing the name of the functions corresponding to each area.
+While you’re interacting with your mobile phone you will see the different areas coloured, and then by clicking on the burger menu at the top right, a legend appears showing the name of the functions corresponding to each area.
 
 
 
